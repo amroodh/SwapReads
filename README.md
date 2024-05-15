@@ -86,7 +86,6 @@ git clone git@github.com:your-username/SwapReads.git
 ```sh
 https://github.com/your-username/SwapReads.git
 ```
-
 4. Now go ahead and create a new branch and move to the branch
 ```sh
 git checkout -b <branch-name>
@@ -96,7 +95,6 @@ git checkout -b <branch-name>
 ```sh
 git status -s
 ```
-
 6. Add all the files to the staging area
 ```sh
 git add .
